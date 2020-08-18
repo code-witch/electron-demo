@@ -4,7 +4,7 @@
   "description": "Electron Demo",
   "main": "app/main.js",
   "scripts": {
-    "electronDemo": "electron ./expressDemo/main.js",
+    "expressDemo": "electron ./expressDemo/main.js",
     "simpleApp": "electron ./simpleApp/main.js",
     "loadPage":"electron ./loadPage/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
