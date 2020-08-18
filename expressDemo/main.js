@@ -41,8 +41,8 @@ const start = () => {
     });
 
     // mainWindow.loadFile(__dirname + "../public/index2.html");
-    server.listen(3000);
-    mainWindow.loadURL('http://localhost:3000/');
+    server.listen(3001);
+    mainWindow.loadURL('http://localhost:3001/');
     // require('../editor');
     mainWindow.on("closed", () => {
         mainWindow = null;

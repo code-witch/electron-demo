@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#main-canvas {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    border: white 2px solid;
+    width: 49%;
+    height: 100%;
+}
+#container {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 100vw;
+    height: 100vh;
+}
+#editor {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 49%;
+    height: 100%;
+}
