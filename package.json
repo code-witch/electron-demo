@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/code-witch/electron-demo#readme",
   "dependencies": {
-    "electron": "^9.1.2",
+    "electron": "^15.5.5",
     "express": "^4.17.1",
     "monaco-editor": "^0.20.0",
     "monaco-loader": "^1.0.0",
